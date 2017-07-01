@@ -3,16 +3,16 @@
 #######################################
 
 #Twitter App Consumer Key
-ConsumerKey="EPQZxB2Tdb7zarPY0LQFPoQuG"
+ConsumerKey="YOUR_TWITTER_APP_CONSUMER_KEY"
 
 #Twitter App Consumer Secret
-ConsumerSecret="UmGII5eqhIhzQtsneVRXYcd4lzILzRgdBGTtsKbyQNVW4s40I8"
+ConsumerSecret="YOUR_TWITTER_APP_CONSUMER_SECRET"
 
 #Twitter App Access Token
-AccessToken="150568127-nmZ10vBqJdyB1rH8aAroluoSPRnjRjN6H9TOtQQ6"
+AccessToken="YOUR_TWITTER_APP_ACCESS_TOKEN"
 
 #Twitter App Access Token Secret
-AccessTokenSecret="gkTgmKGXEK2gINHa5LtHcdbgSOnRE3si1upZWUupRDmoX"
+AccessTokenSecret="YOUR_TWITTER_APP_ACCESS_TOKEN_SECRET"
 
 #Installing package twitteR
 install.packages("twitteR")
